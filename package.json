@@ -1,5 +1,5 @@
 {
-  "name": "@csgaglobal/aws-cloud",
+  "name": "@meok-ai-labs/aws-cloud",
   "version": "1.0.0",
   "description": "AWS cloud infrastructure management with resource provisioning, monitoring, cost optimization, and security compliance.",
   "main": "dist/index.js",
@@ -20,10 +20,10 @@
   "devDependencies": {
     "typescript": "^5.7.3"
   },
-  "author": "CSGA Global",
+  "author": "MEOK Labs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/csga-global/mcp-servers",
+    "url": "https://github.com/meok-ai/mcp-servers",
     "directory": "packages/aws-cloud"
   },
   "keywords": [
